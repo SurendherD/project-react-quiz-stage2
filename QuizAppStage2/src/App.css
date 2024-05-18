@@ -1,0 +1,78 @@
+
+*{
+  padding: 0%;
+}
+.homepageContainer{
+  text-align: center;
+  margin-top: 15%;
+  color: white;
+  font-size: 2rem;
+}
+
+.playbtn{
+  color: white;
+  font-size: 3rem;
+  border-radius: 40px;
+  cursor: pointer;
+  width: 25rem;
+  background-color: green;
+  border: 1px solid white;
+  padding: 20px;
+}
+
+.container{
+  margin: 3rem auto 0 auto;
+  width: 80%;
+  background-color: #f8f8f8;
+  padding: 2rem;
+}
+
+h2{
+  text-align: center;
+  font-size: 4rem;
+}
+
+span{
+  font-size: 2rem;
+}
+.optionBox{
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+}
+
+.option{
+  margin-right: 5%;
+  border: 5px solid deepskyblue;
+  background-color: deepskyblue;
+  border-radius: 20px;
+  font-size: 3rem;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.buttonBox{
+  text-align: center;
+}
+
+.btn{
+  margin-right: 5rem;
+  font-size: 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 10px 5px;
+  margin-bottom: 2%;
+  width: 10rem;
+}
+
+.pbtn{
+  background-color: cornflowerblue;
+}
+
+.nbtn{
+  background-color: green;
+}
+
+.qbtn{
+  background-color: red;
+}
